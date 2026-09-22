@@ -1,47 +1,92 @@
 <div align="center">
-  <img src="./assets/banner.svg.png" width="100%" alt="Samatar Mohamed - Full-Stack Developer">
+
+  <img
+    src="./assets/banner.svg.png"
+    width="100%"
+    alt="Samatar Mohamed - Information Science Student"
+  />
+
 </div>
 
 <br>
 
+<div align="center">
 
+  <h1>👋 Hi, I'm Samatar Mohamed</h1>
 
+  <p>
+    <strong>
+      Information Science Student • Full-Stack Developer • Problem Solver
+    </strong>
+  </p>
 
-<h2 align="center">👋 Hi, I'm Samatar Mohamed</h2>
+  <p>
+    I build practical digital solutions that connect technology,
+    information, and real-world problems.
+  </p>
 
-<p align="center">
-  <strong>Full-Stack Developer • Computer Science Student • Problem Solver</strong>
-</p>
+</div>
 
-<p align="center">
-  I build practical digital solutions that connect technology with real-world problems.
-</p>
+<br>
 
-<p align="center">
+<div align="center">
+
   <a href="https://github.com/samatar578">
-    <img src="https://img.shields.io/badge/GitHub-samatar578-181717?style=for-the-badge&logo=github" />
+    <img
+      src="https://img.shields.io/badge/GitHub-samatar578-181717?style=for-the-badge&logo=github"
+      alt="GitHub"
+    />
   </a>
- <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
- <a href="mailto:samatar578@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+
+  <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:samatar578@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"
+      alt="Email"
+    />
+  </a>
+
+</div>
+
+<br>
 
 ---
 
 ## 👨🏾‍💻 About Me
 
-I'm a Computer Science student and developer who enjoys turning ideas into useful,
-modern and accessible software.
+I'm an **Information Science student and developer** interested in building
+useful digital solutions that combine technology, information, data, and
+user-centered design.
 
 - 🌍 Based in **Kenya**
+- 🎓 Studying **Information Science**
 - 💻 Focused on **Full-Stack Web Development**
-- 🧠 Learning and improving every day
-- 🚀 Building real-world projects
-- 🎨 Interested in clean UI/UX
+- 🧠 Continuously learning and improving my technical skills
+- 🚀 Building real-world projects and digital solutions
+- 🎨 Interested in **UI/UX and user-centered design**
+- 🗄️ Exploring databases, information systems, and data
 - 🤝 Open to collaboration and meaningful technology projects
+- 🌱 Interested in using technology to solve practical community problems
+
+---
+
+## 🧩 What I Do
+
+<div align="center">
+
+| 💻 Development | 🗄️ Information | 🎨 Design | 🚀 Innovation |
+|:---:|:---:|:---:|:---:|
+| Web Applications | Information Systems | UI/UX | Real-World Solutions |
+| Frontend | Databases | User Experience | Community Technology |
+| Backend | Data | Accessibility | Digital Innovation |
+
+</div>
 
 ---
 
@@ -49,74 +94,143 @@ modern and accessible software.
 
 ### 🌍 WildNorth Kenya
 
-A conservation initiative focused on protecting wildlife and habitats in northern
-Kenya through community engagement, technology and education.
+**WildNorth Kenya** is a conservation initiative focused on protecting
+wildlife and habitats in northern Kenya through community engagement,
+technology, and education.
 
-**Focus:** Wildlife reporting • Sightings • Conservation education • Community participation
+**Focus**
 
-**Technologies:** `React` `JavaScript` `Vite` `Tailwind CSS`
+- 🐘 Wildlife reporting
+- 📍 Wildlife sightings
+- 🌱 Conservation education
+- 👥 Community participation
+- 📊 Information sharing
+- 🛡️ Wildlife and habitat protection
+
+**Technologies**
+
+`React` `JavaScript` `Vite` `Tailwind CSS`
 
 ---
 
 ### 🚨 Horn Watch
 
-A disaster and community alert platform focused on emergency reporting,
-real-time alerts and responder coordination across the Horn of Africa.
+**Horn Watch** is a disaster and community alert platform focused on
+emergency reporting, real-time alerts, community coordination, and
+responder communication across the Horn of Africa.
 
-**Focus:** Emergency alerts • Reporting • Responders • Maps • Multilingual support
+**Focus**
 
-**Technologies:** `React` `JavaScript` `Vite` `Tailwind CSS`
+- 🚨 Emergency alerts
+- 📢 Disaster reporting
+- 🗺️ Location and maps
+- 👥 Community coordination
+- 🧑🏾‍🚒 Responder management
+- 🌍 Multilingual support
+- 📱 Mobile-first experience
+
+**Technologies**
+
+`React` `JavaScript` `Vite` `Tailwind CSS`
 
 ---
 
 ### 🛡️ SafePath Youth Hub
 
-A youth awareness platform focused on addiction awareness, peer pressure,
-mental health awareness and the risks of irregular migration.
+**SafePath Youth Hub** is a youth awareness platform designed to provide
+information about addiction, peer pressure, mental health awareness, and
+the risks associated with irregular migration.
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+**Focus**
+
+- 🧠 Youth awareness
+- 🛡️ Addiction awareness
+- 👥 Peer pressure
+- 🌱 Personal development
+- ⚠️ Irregular migration awareness
+- 📚 Educational resources
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Languages
+<div align="center">
 
-<p>
+### ✨ My Technology Universe
+
+<img
+  src="./assets/tech-stack.svg"
+  width="850"
+  alt="Samatar Mohamed Floating Technology Stack"
+/>
+
+</div>
+
+<br>
+
+### 💻 Languages
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
 
-### Frontend
+</div>
 
-<p>
+### ⚛️ Frontend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
 
-### Database & Backend
+</div>
 
-<p>
+### 🗄️ Database & Backend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,express" />
-</p>
 
-### Tools
+</div>
 
-<p>
+### 🔧 Tools & Environment
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+
+</div>
 
 ---
 
 ## 🎯 Currently Focused On
 
+<div align="center">
+
 ```text
-Full-Stack Development
-      ↓
-React & JavaScript
-      ↓
-Python & SQL
-      ↓
-UI/UX
-      ↓
-Real-World Projects
-      ↓
-Cloud & DevOps
+╭──────────────────────────────╮
+│     FULL-STACK DEVELOPMENT   │
+╰──────────────┬───────────────╯
+               ↓
+╭──────────────────────────────╮
+│      REACT & JAVASCRIPT      │
+╰──────────────┬───────────────╯
+               ↓
+╭──────────────────────────────╮
+│        PYTHON & SQL          │
+╰──────────────┬───────────────╯
+               ↓
+╭──────────────────────────────╮
+│           UI / UX            │
+╰──────────────┬───────────────╯
+               ↓
+╭──────────────────────────────╮
+│      REAL-WORLD PROJECTS     │
+╰──────────────┬───────────────╯
+               ↓
+╭──────────────────────────────╮
+│        CLOUD & DEVOPS        │
+╰──────────────────────────────╯
