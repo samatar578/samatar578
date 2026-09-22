@@ -4,12 +4,8 @@
 
 <br>
 
-<h2 align="center">👋 Hi, I'm Samatar Mohamed</h2>
 
-<p align="center">
-  <strong>Full-Stack Developer • Computer Science Student • Problem Solver</strong>
-</p>
-<br>
+
 
 <h2 align="center">👋 Hi, I'm Samatar Mohamed</h2>
 
