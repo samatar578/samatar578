@@ -228,7 +228,7 @@ A youth awareness hub offering structured, educational content on personal devel
 
 <br><br>
 
-`Understand` → `Design` → `Build` → `Test` → `Improve` → `Impact`
+thank you for visiting my profile
 
 <br><br>
 
