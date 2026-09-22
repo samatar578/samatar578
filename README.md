@@ -6,15 +6,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=560&lines=Information+Science+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;Information+Systems+Builder" alt=""/>
-
-# Samatar Mohamed
-
-### Information Science × Software Development × UI/UX
-
-Building digital products that connect technology, information, and people.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3400&pause=1000&color=00E5FF&center=true&vCenter=true&width=540&lines=Information+Science+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;Information+Systems+Builder" alt=""/>
 
 <br>
+
+# **SAMATAR MOHAMED**
+
+<sub>Information Science &nbsp;·&nbsp; Software Development &nbsp;·&nbsp; UI/UX</sub>
+
+<br><br>
+
+*Building digital products that connect technology, information, and people.*
+
+<br><br>
 
 <a href="https://github.com/samatar578"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -24,25 +28,27 @@ Building digital products that connect technology, information, and people.
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-I'm an <b>Information Science student and full-stack developer</b> based in Kenya. My work sits at the intersection of software engineering, information systems, and user experience.
+I'm an **Information Science student and full-stack developer** based in Kenya. My work sits at the intersection of software engineering, information systems, and user experience design.
 
-I build digital products that solve specific, real problems — from emergency response tools to conservation platforms to youth education systems. I care about clarity, structure, and products that work for the people who actually use them.
+I build digital products that address specific, real problems — from emergency response platforms to conservation tools to youth education systems. I care about clarity, structure, and shipping products that work for the people who use them.
 
 </td>
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
-<b>Currently</b><br><br>
-🎓 &nbsp; Information Science student<br>
-💻 &nbsp; Full-stack developer<br>
-🎨 &nbsp; UI/UX enthusiast<br>
-🗄️ &nbsp; Information systems builder<br>
-🌍 &nbsp; Based in Kenya
+**Profile**
+
+🎓 &nbsp; Information Science<br>
+💻 &nbsp; Full-Stack Developer<br>
+🎨 &nbsp; UI/UX Enthusiast<br>
+🗄️ &nbsp; Information Systems<br>
+🌍 &nbsp; Digital Innovation<br>
+📍 &nbsp; Kenya
 
 </td>
 </tr>
@@ -50,32 +56,44 @@ I build digital products that solve specific, real problems — from emergency r
 
 ---
 
-## Focus
+<h2 align="center">Focus</h2>
 
 <table>
 <tr>
 <td align="center" width="25%" valign="top">
 
-<b>Software</b><br><br>
-<sub>Web applications · Frontend · Backend · REST APIs</sub>
+<sub><b>01</b></sub>
+
+**Software**
+
+<sub>Web applications · Frontend · Backend · APIs</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-<b>Information</b><br><br>
-<sub>Databases · Information systems · Data management</sub>
+<sub><b>02</b></sub>
+
+**Information**
+
+<sub>Databases · Information systems · Data</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-<b>Experience</b><br><br>
+<sub><b>03</b></sub>
+
+**Experience**
+
 <sub>Interfaces · Responsive design · Accessibility</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-<b>Impact</b><br><br>
-<sub>Community tech · Conservation · Emergency systems</sub>
+<sub><b>04</b></sub>
+
+**Impact**
+
+<sub>Community · Conservation · Emergency systems</sub>
 
 </td>
 </tr>
@@ -83,144 +101,146 @@ I build digital products that solve specific, real problems — from emergency r
 
 ---
 
-## Selected Work
+<h2 align="center">Selected Work</h2>
 
 <br>
 
-### Horn Watch
-**Horn of Africa Emergency Network**
+### **Horn Watch**
 
-<img src="https://img.shields.io/badge/Emergency_Technology-FF4B4B?style=flat-square" alt=""/>
+**Horn of Africa Emergency Network** &nbsp;·&nbsp; `Emergency Technology`
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<b>The problem</b><br>
+**The Challenge**
+
 Emergency information across the Horn of Africa is fragmented, delayed, and often fails to reach the people who need it most.
 
-<b>The platform</b><br>
+**The Platform**
+
 A mobile-first system that centralizes emergency alerts, disaster reporting, location data, and community–responder coordination in real time.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<b>Capabilities</b><br><br>
-<ul>
-<li>Emergency alerts</li>
-<li>Disaster reporting</li>
-<li>Maps and location data</li>
-<li>Community coordination</li>
-<li>Responder management</li>
-<li>Multilingual support</li>
-<li>Real-time information</li>
-</ul>
+**Capabilities**
+
+- Emergency alerts
+- Disaster reporting
+- Maps and locations
+- Community coordination
+- Responder management
+- Multilingual support
+- Real-time information
+
+<br>
+
+<sub>`React` &nbsp; `JavaScript` &nbsp; `Vite` &nbsp; `Tailwind CSS`</sub>
 
 </td>
 </tr>
 </table>
 
-<sub>`React` · `JavaScript` · `Vite` · `Tailwind CSS`</sub>
+<br>
 
-<br><br>
+### **WildNorth Kenya**
 
-### WildNorth Kenya
-**Conservation Through Community and Technology**
-
-<img src="https://img.shields.io/badge/Conservation_Technology-16A34A?style=flat-square" alt=""/>
+**Conservation Through Community and Technology** &nbsp;·&nbsp; `Conservation`
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<b>The problem</b><br>
+**The Challenge**
+
 Wildlife and habitat protection in northern Kenya depends on local participation, but communities often lack accessible tools to report and share information.
 
-<b>The platform</b><br>
-A conservation initiative that uses technology, education, and community engagement to support wildlife reporting, sighting data, and habitat protection.
+**The Platform**
+
+A conservation initiative that combines technology, education, and community engagement to support wildlife reporting, sighting data, and habitat protection.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<b>Capabilities</b><br><br>
-<ul>
-<li>Wildlife reporting</li>
-<li>Wildlife sightings</li>
-<li>Conservation education</li>
-<li>Community participation</li>
-<li>Information sharing</li>
-<li>Habitat protection</li>
-</ul>
+**Capabilities**
+
+- Wildlife reporting
+- Wildlife sightings
+- Conservation education
+- Community participation
+- Information sharing
+- Habitat protection
+
+<br>
+
+<sub>`React` &nbsp; `JavaScript` &nbsp; `Vite` &nbsp; `Tailwind CSS`</sub>
 
 </td>
 </tr>
 </table>
 
-<sub>`React` · `JavaScript` · `Vite` · `Tailwind CSS`</sub>
+<br>
 
-<br><br>
+### **SafePath Youth Hub**
 
-### SafePath Youth Hub
-**Protect your mind. Protect your journey.**
-
-<img src="https://img.shields.io/badge/Youth_Awareness-A855F7?style=flat-square" alt=""/>
+**Protect your mind. Protect your journey.** &nbsp;·&nbsp; `Youth Education`
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<b>The problem</b><br>
+**The Challenge**
+
 Young people face addiction, peer pressure, mental health challenges, and the risks of irregular migration — often without accessible, judgment-free information.
 
-<b>The platform</b><br>
-A youth awareness hub offering structured, educational content on personal development, addiction, peer pressure, and migration risks.
+**The Platform**
+
+A youth awareness hub offering structured educational content on personal development, addiction awareness, peer pressure, and migration risks.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<b>Capabilities</b><br><br>
-<ul>
-<li>Youth awareness</li>
-<li>Addiction awareness</li>
-<li>Peer pressure</li>
-<li>Personal development</li>
-<li>Migration awareness</li>
-<li>Educational resources</li>
-</ul>
+**Capabilities**
+
+- Youth awareness
+- Addiction awareness
+- Peer pressure
+- Personal development
+- Migration awareness
+- Educational resources
+
+<br>
+
+<sub>`HTML` &nbsp; `CSS` &nbsp; `JavaScript`</sub>
 
 </td>
 </tr>
 </table>
-
-<sub>`HTML` · `CSS` · `JavaScript`</sub>
 
 ---
 
-## Stack
+<h2 align="center">Stack</h2>
 
 <div align="center">
 
-<img src="./assets/tech-stack-floating.gif" width="700" alt="Technology stack"/>
+<img src="./assets/tech-stack-floating.gif" width="640" alt="Technology stack"/>
 
 <br><br>
 
-**Languages**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" height="40"/>
+**Languages** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" height="38"/>
 
-**Frontend**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" height="40"/>
+**Frontend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" height="38"/>
 
-**Backend & Data**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="40"/>
+**Backend & Data** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="38"/>
 
-**Tools**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="40"/>
+**Tools** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="38"/>
 
 </div>
 
 ---
 
-## Process
+<h2 align="center">Process</h2>
 
 <div align="center">
 
@@ -228,17 +248,17 @@ A youth awareness hub offering structured, educational content on personal devel
 
 <br><br>
 
-thank you for visiting my profile
+`Understand` &nbsp;→&nbsp; `Design` &nbsp;→&nbsp; `Build` &nbsp;→&nbsp; `Test` &nbsp;→&nbsp; `Improve` &nbsp;→&nbsp; `Impact`
 
 <br><br>
 
-<sub>Real-world problem first. Human-centered design. Continuous iteration.</sub>
+<sub>*Real-world problem first. Human-centered design. Continuous iteration.*</sub>
 
 </div>
 
 ---
 
-## Currently Learning
+<h2 align="center">Currently Learning</h2>
 
 <div align="center">
 
@@ -246,7 +266,7 @@ thank you for visiting my profile
 
 <br><br>
 
-`Frontend` → `Backend` → `Data` → `Information Systems` → `Cloud & DevOps` → `Real-world Projects`
+`Frontend` &nbsp;→&nbsp; `Backend` &nbsp;→&nbsp; `Data` &nbsp;→&nbsp; `Information Systems` &nbsp;→&nbsp; `Cloud & DevOps` &nbsp;→&nbsp; `Real-world Projects`
 
 <br><br>
 
@@ -256,7 +276,7 @@ thank you for visiting my profile
 
 ---
 
-## Activity
+<h2 align="center">Activity</h2>
 
 <div align="center">
 
@@ -275,13 +295,13 @@ thank you for visiting my profile
 
 ---
 
+<h2 align="center">Connect</h2>
+
 <div align="center">
 
-## Connect
+<sub>Open to collaboration, projects, and building technology that creates meaningful impact.</sub>
 
-Open to collaboration, projects, and building technology that creates meaningful impact.
-
-<br>
+<br><br>
 
 <a href="https://github.com/samatar578"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -289,7 +309,7 @@ Open to collaboration, projects, and building technology that creates meaningful
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Impact" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=1000&color=7C3AED&center=true&vCenter=true&width=380&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Impact" alt=""/>
 
 <br><br>
 
