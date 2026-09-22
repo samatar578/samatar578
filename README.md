@@ -21,9 +21,9 @@
   <a href="https://github.com/samatar578">
     <img src="https://img.shields.io/badge/GitHub-samatar578-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/samatar-mohamed-8069a8333/" />
-  </a>
+ <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
