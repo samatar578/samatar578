@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg.png" width="70%" alt="Samatar Mohamed - Full-Stack Developer">
+  <img src="./assets/banner.svg.png" width="100%" alt="Samatar Mohamed - Full-Stack Developer">
 </div>
 
 <br>
