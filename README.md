@@ -160,13 +160,13 @@ the risks associated with irregular migration.
 
 <div align="center">
 
-### ✨ My Technology Universe
+  <h3>✨ My Technology Universe</h3>
 
-<img
-  src="./assets/tech-stack.svg"
-  width="850"
-  alt="Samatar Mohamed Floating Technology Stack"
-/>
+  <img
+    src="./assets/tech-stack-floating.gif"
+    width="850"
+    alt="Samatar Mohamed Animated Technology Stack"
+  />
 
 </div>
 
