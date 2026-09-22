@@ -1,138 +1,198 @@
-<svg width="860" height="460" viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'Segoe UI', 'Ubuntu', sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NGY0Yzg4Mi0xOGM4LTQ1YzctOGY5MS0yMzBkZjQ4OWE1NjUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPT6ek0vURe0eSmwI/TMdB8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiZTA4N2JkNi02ZTY1LTRmMjEtYWMzNi1kNjkwNzE0N2Q4OTBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo4B9svgvgYYW8pfBwOXngbgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkX5jkzHNxbhKhZtJP34R53gS3ErTCTcSi3onsTVcybSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEKz4oxEP/nYTqlLTBiPfy0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCkP8LgVbpeW/bh3Ow4doKT2O/D2YOtIPn1GztasdPdRWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjwZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ0ZjRjODgyLTE4YzgtNDVjNy04ZjkxLTIzMGRmNDg5YTU2NS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmIwMzg0NTNjLTY3MDMtNGJiMC05ZTQzLTkxMWU0MWEwNTEzY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCRfmOTMc3FuEqFm0k/fhHneBLcStMJNxKLeiexNVzJtKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggjgT0aZnuLQKBwsUPbp7W/VVFU1vHQr3rUSEdz3zIEVmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg8BfcvgqCX6meYoiLnDEkUx3H0mNgyA3iKUjvEFca1+h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBfF3BYCKJzFydrejdIHKeEf38bEV/Gzc6crg9OD/c1PKxI8zWMsYeqS2D7omjjrCC11CmnniuU5OiCtdcDat2M=</c2pa:manifest></metadata>
+<div align="center">
 
-  <!-- ============ helper: reusable floating icon ============ -->
-  <!-- each icon sits in its own <g>, translated into place, then bobs
-       up and down with a slightly different duration/offset so the
-       whole row feels alive instead of moving in lockstep -->
+  <img
+    src="./assets/banner.svg.png"
+    width="100%"
+    alt="Samatar Mohamed - Information Science Student"
+  />
 
-  <defs>
-    <style>
-      .row-label {
-        font-size: 15px;
-        font-weight: 700;
-        letter-spacing: 1px;
-        fill: #58a6ff;
-        text-transform: uppercase;
-      }
-      .row-sub {
-        font-size: 11px;
-        fill: #8b949e;
-      }
-    </style>
-  </defs>
+  <br><br>
 
-  <!-- ================= Row 1 — Languages ================= -->
-  <text x="20" y="26" class="row-label">Languages</text>
-  <text x="20" y="42" class="row-sub">Python · JavaScript · HTML5 · CSS3</text>
+  <h1>Hi, I'm Samatar Mohamed 👋</h1>
 
-  <g transform="translate(150,15)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.6s" begin="0s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=python" width="48" height="48"/>
-  </g>
+  <p>
+    <strong>Information Science Student&nbsp;•&nbsp;Full-Stack Developer&nbsp;•&nbsp;Problem Solver</strong>
+  </p>
 
-  <g transform="translate(225,15)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.9s" begin="0.3s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
-  </g>
+  <p>
+    I build practical digital solutions that connect technology, information,
+    and real-world problems — with a focus on community-driven impact.
+  </p>
 
-  <g transform="translate(300,15)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.5s" begin="0.6s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=html" width="48" height="48"/>
-  </g>
+  <br>
 
-  <g transform="translate(375,15)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="3.1s" begin="0.9s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-  </g>
+  <a href="https://github.com/samatar578">
+    <img src="https://img.shields.io/badge/GitHub-samatar578-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samatar578@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
-  <!-- ================= Row 2 — Frontend ================= -->
-  <text x="20" y="136" class="row-label">Frontend</text>
-  <text x="20" y="152" class="row-sub">React · Vite · Tailwind CSS</text>
+  <br><br>
 
-  <g transform="translate(150,125)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.7s" begin="0.2s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-  </g>
+  <img src="https://komarev.com/ghpvc/?username=samatar578&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile views" />
 
-  <g transform="translate(225,125)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="3.0s" begin="0.5s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=vite" width="48" height="48"/>
-  </g>
+</div>
 
-  <g transform="translate(300,125)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.4s" begin="0.8s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
-  </g>
+<br>
 
-  <!-- ================= Row 3 — Database & Backend ================= -->
-  <text x="20" y="246" class="row-label">Database &amp; Backend</text>
-  <text x="20" y="262" class="row-sub">MySQL · Node.js · Express</text>
+## 📌 Table of Contents
 
-  <g transform="translate(150,235)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.8s" begin="0.1s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
-  </g>
+- [About Me](#-about-me)
+- [What I Do](#-what-i-do)
+- [Featured Projects](#-featured-projects)
+- [Technology Stack](#️-technology-stack)
+- [GitHub Stats](#-github-stats)
+- [Currently Focused On](#-currently-focused-on)
+- [Let's Connect](#-lets-connect)
 
-  <g transform="translate(225,235)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.6s" begin="0.4s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
-  </g>
+<br>
 
-  <g transform="translate(300,235)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="3.2s" begin="0.7s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=express" width="48" height="48"/>
-  </g>
+## 👨🏾‍💻 About Me
 
-  <!-- ================= Row 4 — Tools & Environment ================= -->
-  <text x="20" y="356" class="row-label">Tools &amp; Environment</text>
-  <text x="20" y="372" class="row-sub">Git · GitHub · VS Code · Linux</text>
+I'm an **Information Science student and developer** based in Kenya,
+interested in building useful digital solutions that combine technology,
+information, data, and user-centered design.
 
-  <g transform="translate(150,345)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.5s" begin="0s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=git" width="48" height="48"/>
-  </g>
+- 🎓 Studying **Information Science**
+- 💻 Focused on **full-stack web development**
+- 🧠 Continuously learning and sharpening my technical skills
+- 🚀 Building real-world projects and digital solutions
+- 🎨 Interested in **UI/UX** and user-centered design
+- 🗄️ Exploring databases, information systems, and data
+- 🌱 Passionate about using technology to solve practical community problems
+- 🤝 Open to collaboration and meaningful technology projects
 
-  <g transform="translate(225,345)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.9s" begin="0.35s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=github" width="48" height="48"/>
-  </g>
+<br>
 
-  <g transform="translate(300,345)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="2.7s" begin="0.65s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
-  </g>
+## 🧩 What I Do
 
-  <g transform="translate(375,345)">
-    <animateTransform attributeName="transform" type="translate" additive="sum"
-      values="0,0; 0,-9; 0,0" dur="3.0s" begin="0.95s" repeatCount="indefinite" calcMode="spline"
-      keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
-    <image href="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
-  </g>
+<div align="center">
 
-</svg>
+| 💻 Development | 🗄️ Information Systems | 🎨 Design | 🚀 Innovation |
+|:---:|:---:|:---:|:---:|
+| Web Applications | Databases | UI/UX | Real-World Solutions |
+| Frontend Engineering | Data Management | User Experience | Community Technology |
+| Backend Engineering | Information Architecture | Accessibility | Digital Innovation |
+
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🌍 WildNorth Kenya
+A conservation initiative focused on protecting wildlife and habitats in
+northern Kenya through community engagement, technology, and education.
+
+**Focus:** Wildlife reporting · Sightings tracking · Conservation education · Community participation · Information sharing
+
+`React` `JavaScript` `Vite` `Tailwind CSS`
+
+---
+
+### 🚨 Horn Watch
+A disaster and community alert platform for emergency reporting, real-time
+alerts, community coordination, and responder communication across the
+Horn of Africa.
+
+**Focus:** Emergency alerts · Disaster reporting · Location & maps · Community coordination · Multilingual support · Mobile-first experience
+
+`React` `JavaScript` `Vite` `Tailwind CSS`
+
+---
+
+### 🛡️ SafePath Youth Hub
+A youth awareness platform providing information on addiction, peer
+pressure, mental health, and the risks of irregular migration.
+
+**Focus:** Youth awareness · Addiction awareness · Peer pressure · Personal development · Irregular migration awareness · Educational resources
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+  <img src="./assets/tech-stack-animated.svg" width="850" alt="Samatar Mohamed's floating technology stack" />
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samatar578&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samatar's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samatar578&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=samatar578&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+
+</div>
+
+<br>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+```text
+╭───────────────────────────────╮
+│      FULL-STACK DEVELOPMENT    │
+╰────────────────┬────────────────╯
+                  ↓
+╭───────────────────────────────╮
+│       REACT & JAVASCRIPT       │
+╰────────────────┬────────────────╯
+                  ↓
+╭───────────────────────────────╮
+│          PYTHON & SQL          │
+╰────────────────┬────────────────╯
+                  ↓
+╭───────────────────────────────╮
+│             UI / UX            │
+╰────────────────┬────────────────╯
+                  ↓
+╭───────────────────────────────╮
+│       REAL-WORLD PROJECTS      │
+╰────────────────┬────────────────╯
+                  ↓
+╭───────────────────────────────╮
+│         CLOUD & DEVOPS         │
+╰───────────────────────────────╯
+```
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  I'm always open to collaborating on meaningful projects, especially ones
+  with real community impact. Feel free to reach out!
+
+  <br><br>
+
+  <a href="https://github.com/samatar578">
+    <img src="https://img.shields.io/badge/GitHub-samatar578-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samatar578@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+  <br><br>
+
+  <sub>⭐️ Thanks for stopping by — feel free to explore my repositories!</sub>
+
+</div>
