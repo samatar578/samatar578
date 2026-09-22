@@ -1,0 +1,67 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#08111F"/>
+    <stop offset="0.55" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="blue" x1="760" y1="0" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#58A6FF"/>
+    <stop offset="1" stop-color="#1F6FEB"/>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="358" rx="25" stroke="#30363D"/>
+
+<!-- Background grid -->
+<g opacity="0.14" stroke="#58A6FF">
+  <path d="M0 80H1200M0 140H1200M0 200H1200M0 260H1200M0 320H1200"/>
+  <path d="M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360"/>
+</g>
+
+<!-- Decorative glow -->
+<circle cx="1080" cy="100" r="170" fill="#1F6FEB" opacity="0.12"/>
+<circle cx="1040" cy="300" r="120" fill="#F78166" opacity="0.07"/>
+
+<!-- Left content -->
+<text x="62" y="82" fill="#58A6FF" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">HELLO, I'M</text>
+<text x="60" y="137" fill="#F0F6FC" font-family="Arial, sans-serif" font-size="48" font-weight="800">SAMATAR MOHAMED</text>
+<text x="63" y="177" fill="#C9D1D9" font-family="Arial, sans-serif" font-size="22">Full-Stack Developer  •  Computer Science Student</text>
+
+<rect x="62" y="207" width="390" height="42" rx="21" fill="#161B22" stroke="#30363D"/>
+<circle cx="86" cy="228" r="7" fill="#3FB950"/>
+<text x="105" y="235" fill="#C9D1D9" font-family="monospace" font-size="16">building practical digital solutions</text>
+
+<text x="63" y="286" fill="#8B949E" font-family="Arial, sans-serif" font-size="16">React  •  JavaScript  •  Python  •  SQL  •  Git</text>
+
+<!-- Developer illustration -->
+<rect x="720" y="55" width="410" height="250" rx="18" fill="#0D1117" stroke="#30363D"/>
+<rect x="744" y="80" width="362" height="154" rx="10" fill="#111820" stroke="#58A6FF" stroke-width="2"/>
+
+<circle cx="765" cy="100" r="5" fill="#F78166"/>
+<circle cx="783" cy="100" r="5" fill="#E3B341"/>
+<circle cx="801" cy="100" r="5" fill="#3FB950"/>
+
+<g font-family="monospace" font-size="14">
+<text x="765" y="130" fill="#8B949E">$ whoami</text>
+<text x="765" y="153" fill="#58A6FF">samatar</text>
+<text x="765" y="176" fill="#3FB950">→</text>
+<text x="785" y="176" fill="#C9D1D9">build(impact)</text>
+<text x="765" y="199" fill="#F78166">const</text>
+<text x="815" y="199" fill="#C9D1D9"> future = "open"</text>
+<text x="765" y="222" fill="#8B949E">_</text>
+</g>
+
+<!-- Person -->
+<circle cx="925" cy="282" r="30" fill="#C9D1D9"/>
+<path d="M893 282C897 255 913 245 927 245C946 245 958 260 959 282C949 273 939 270 926 270C913 270 902 274 893 282Z" fill="#21262D"/>
+<path d="M855 345C859 313 878 294 925 294C972 294 992 313 996 345H855Z" fill="#1F6FEB"/>
+<path d="M900 307L925 329L950 307" stroke="#58A6FF" stroke-width="4"/>
+<rect x="855" y="338" width="145" height="7" rx="3.5" fill="#30363D"/>
+
+<!-- Floating code symbol -->
+<circle cx="1070" cy="260" r="27" fill="#161B22" stroke="#F78166"/>
+<text x="1055" y="268" fill="#F78166" font-family="monospace" font-size="20">&lt;/&gt;</text>
+
+</svg>
