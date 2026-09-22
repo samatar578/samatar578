@@ -1,79 +1,87 @@
 <div align="center">
 
-<img src="./assets/banner.svg.png" width="100%" alt="Samatar Mohamed - Information Science Student & Full-Stack Developer"/>
+<!-- HERO -->
+
+<img src="./assets/banner.svg.png" width="100%" alt="Samatar Mohamed"/>
 
 <br/>
 
-# 👋🏾 Hi, I'm **Samatar Mohamed**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Information+Science+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Building+Technology+With+Purpose" alt="Typing animation"/>
 
-### `Information Science Student` • `Full-Stack Developer` • `Problem Solver`
+<br/><br/>
+
+<h1>👋🏾 Hi, I'm Samatar Mohamed</h1>
 
 <p>
-  <i>
-    I build practical digital solutions that connect
-    <b>technology, information, data, and people.</b>
-  </i>
+<b>Information Science Student</b>
+&nbsp; • &nbsp;
+<b>Full-Stack Developer</b>
+&nbsp; • &nbsp;
+<b>Problem Solver</b>
+</p>
+
+<p>
+I transform real-world problems into
+<strong>useful, accessible, and user-centered digital solutions.</strong>
 </p>
 
 <br/>
 
 <a href="https://github.com/samatar578">
-<img src="https://img.shields.io/badge/GitHub-samatar578-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:samatar578@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=samatar578&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=samatar578&label=PROFILE%20VIEWS&color=00c6ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧑🏾‍💻 About Me
+<div align="center">
+
+## ⚡ `WHO AM I?`
+
+</div>
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-I'm an **Information Science student and developer** passionate about creating useful digital products that combine:
+### 👨🏾‍💻 Developer • 🎓 Student • 🌍 Builder
 
-* 💻 Software development
+I'm an **Information Science student and full-stack developer** interested in the intersection of:
+
+```text
+Technology + Information + Data + People
+```
+
+I enjoy building digital products that don't just look good, but **solve actual problems**.
+
+My development journey focuses on:
+
+* ⚛️ Modern web development
+* 🧠 Problem solving
+* 🎨 UI/UX & user-centered design
 * 🗄️ Information systems
-* 📊 Data and databases
-* 🎨 UI/UX design
+* 📊 Data & databases
 * 🌍 Community-focused technology
-
-I enjoy taking real-world problems and turning them into **practical, accessible, and user-centered digital solutions.**
-
-### 🚀 My Approach
-
-> **Understand the problem → Design the experience → Build the solution → Improve continuously**
+* ☁️ Cloud & DevOps
 
 </td>
 
-<td width="45%">
+<td width="40%" align="center">
 
-```text
-╭────────────────────────────╮
-│       👨🏾‍💻 SAMATAR        │
-├────────────────────────────┤
-│ 🌍 Kenya                   │
-│ 🎓 Information Science     │
-│ 💻 Full-Stack Development  │
-│ 🎨 UI / UX                 │
-│ 🗄️ Databases              │
-│ 📊 Information Systems     │
-│ 🚀 Digital Innovation      │
-╰────────────────────────────╯
-```
+<img src="https://github-readme-stats.vercel.app/api?username=samatar578&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00C6FF&icon_color=7F00FF"/>
 
 </td>
 </tr>
@@ -81,18 +89,44 @@ I enjoy taking real-world problems and turning them into **practical, accessible
 
 ---
 
-# 🧩 What I Do
-
 <div align="center">
 
-| 💻 **Development** | 🗄️ **Information** |   🎨 **Design**   |   🌍 **Innovation**  |
-| :----------------: | :-----------------: | :---------------: | :------------------: |
-|  Web Applications  | Information Systems |       UI/UX       | Real-World Solutions |
-|      Frontend      |      Databases      |  User Experience  | Community Technology |
-|       Backend      |         Data        |   Accessibility   |  Digital Innovation  |
-|        APIs        |   Data Management   | Responsive Design |    Problem Solving   |
+# 🧠 MY DIGITAL MINDSET
 
 </div>
+
+```text
+                    ┌──────────────────────┐
+                    │    REAL WORLD        │
+                    │      PROBLEM         │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   🔍 UNDERSTAND      │
+                    │      THE USER        │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   🎨 DESIGN UX/UI    │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   💻 BUILD PRODUCT   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   🧪 TEST & IMPROVE  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   🌍 REAL IMPACT     │
+                    └──────────────────────┘
+```
 
 ---
 
@@ -100,24 +134,31 @@ I enjoy taking real-world problems and turning them into **practical, accessible
 
 <div align="center">
 
-### 🌍 WildNorth Kenya
+### 🌍 WILDNORTH KENYA
 
-**Technology for wildlife conservation and community participation.**
+<img src="https://img.shields.io/badge/CONSERVATION-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<br/><br/>
 
 </div>
 
-> **WildNorth Kenya** is a conservation initiative focused on protecting wildlife and habitats in northern Kenya through community engagement, technology, and education.
+> **Technology for wildlife conservation.**
 
-**✨ Core Features**
+WildNorth Kenya is a conservation initiative designed to support wildlife and habitat protection in northern Kenya through **community engagement, technology, education, and information sharing.**
 
-* 🐘 Wildlife incident reporting
-* 📍 Wildlife sighting tracking
-* 🌱 Conservation education
-* 👥 Community participation
-* 📊 Information sharing
-* 🛡️ Wildlife and habitat protection
+### 🔥 Key Ideas
 
-**⚙️ Built With**
+|     🐘 Wildlife    |     📍 Tracking    |      🌱 Education     |
+| :----------------: | :----------------: | :-------------------: |
+| Incident reporting | Wildlife sightings | Conservation learning |
+
+|  👥 Community | 📊 Information |   🛡️ Protection   |
+| :-----------: | :------------: | :----------------: |
+| Participation |  Data sharing  | Habitat protection |
+
+**Stack**
 
 `React` `JavaScript` `Vite` `Tailwind CSS`
 
@@ -125,26 +166,27 @@ I enjoy taking real-world problems and turning them into **practical, accessible
 
 <div align="center">
 
-### 🚨 Horn Watch
+### 🚨 HORN WATCH
 
-**A digital emergency and community alert platform for the Horn of Africa.**
+<img src="https://img.shields.io/badge/DISASTER%20RESPONSE-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REAL--TIME-FF6B35?style=for-the-badge"/>
 
 </div>
 
-> **Horn Watch** focuses on emergency reporting, real-time alerts, community coordination, location-based information, and responder communication.
+> **Protecting lives, one alert at a time.**
 
-**✨ Core Features**
+Horn Watch is a disaster and community alert platform focused on **emergency reporting, real-time alerts, community coordination, location information, and responder communication across the Horn of Africa.**
 
-* 🚨 Emergency alerts
-* 📢 Disaster reporting
-* 🗺️ Maps and locations
-* 👥 Community coordination
-* 🧑🏾‍🚒 Responder management
-* 🌍 Multilingual support
-* 📱 Mobile-first experience
-* ⚡ Real-time information
+### ⚡ Platform Capabilities
 
-**⚙️ Built With**
+```text
+🚨 Emergency Alerts       📢 Disaster Reporting
+🗺️ Location & Maps        👥 Community Coordination
+🧑🏾‍🚒 Responder Network    🌍 Multilingual Support
+📱 Mobile First            ⚡ Real-Time Information
+```
+
+**Stack**
 
 `React` `JavaScript` `Vite` `Tailwind CSS`
 
@@ -152,202 +194,265 @@ I enjoy taking real-world problems and turning them into **practical, accessible
 
 <div align="center">
 
-### 🛡️ SafePath Youth Hub
+### 🛡️ SAFEPATH YOUTH HUB
 
-**A digital youth awareness and education platform.**
+<img src="https://img.shields.io/badge/YOUTH-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWARENESS-EC4899?style=for-the-badge"/>
 
 </div>
 
-> **SafePath Youth Hub** provides educational information around addiction, peer pressure, personal development, mental health awareness, and the risks associated with irregular migration.
+> **Protect your mind. Protect your journey.**
 
-**✨ Core Features**
+SafePath Youth Hub is an educational platform focused on youth awareness, personal development, addiction awareness, peer pressure, and the risks associated with irregular migration.
 
-* 🧠 Youth awareness
-* 🛡️ Addiction awareness
-* 👥 Peer-pressure education
-* 🌱 Personal development
-* ⚠️ Irregular migration awareness
-* 📚 Educational resources
+### 💡 Focus Areas
 
-**⚙️ Built With**
+🧠 Mental Health Awareness
+🛡️ Addiction Awareness
+👥 Peer Pressure
+🌱 Personal Development
+⚠️ Irregular Migration Awareness
+📚 Educational Resources
+
+**Stack**
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-# 🛠️ Technology Universe
+# 🛠️ TECH STACK
 
 <div align="center">
 
-### 💻 Languages
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
-
-<br/><br/>
-
-### ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
 
 <br/><br/>
 
-### 🗄️ Backend & Database
+## ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 
 <br/><br/>
 
-### 🔧 Tools & Environment
+## 🗄️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark"/>
+
+<br/><br/>
+
+## 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://github.com/samatar578">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samatar578&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-</a>
-
-<a href="https://github.com/samatar578">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samatar578&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=samatar578&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C6FF&icon_color=7F00FF&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=samatar578&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samatar578&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=samatar578&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=FF6B35&currStreakLabel=00C6FF"/>
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samatar578&bg_color=0D1117&color=FFFFFF&line=00C6FF&point=7F00FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 CURRENTLY BUILDING MYSELF
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">⚛️<br/><b>React</b></td>
+<td align="center">🟨<br/><b>JavaScript</b></td>
+<td align="center">🐍<br/><b>Python</b></td>
+<td align="center">🗄️<br/><b>SQL</b></td>
+<td align="center">🎨<br/><b>UI/UX</b></td>
+<td align="center">☁️<br/><b>Cloud</b></td>
+</tr>
+</table>
+
+</div>
+
+### 🔭 Learning Roadmap
+
+```text
+Frontend
+   │
+   ├── React
+   ├── JavaScript
+   ├── Responsive UI
+   └── Accessibility
+          │
+          ▼
+Backend
+   │
+   ├── Node.js
+   ├── Express
+   ├── Python
+   └── APIs
+          │
+          ▼
+Data
+   │
+   ├── SQL
+   ├── MySQL
+   ├── Information Systems
+   └── Data Management
+          │
+          ▼
+Production
+   │
+   ├── Git
+   ├── Linux
+   ├── Cloud
+   └── DevOps
+```
+
+---
+
+# 🎨 DESIGN × TECHNOLOGY
 
 <div align="center">
 
 ```text
-                    🚀 FULL-STACK DEVELOPMENT
-                              │
-                              ▼
-                    ⚛️ REACT & JAVASCRIPT
-                              │
-                              ▼
-                       🐍 PYTHON & SQL
-                              │
-                              ▼
-                         🎨 UI / UX
-                              │
-                              ▼
-                    🗄️ INFORMATION SYSTEMS
-                              │
-                              ▼
-                     ☁️ CLOUD & DEVOPS
-                              │
-                              ▼
-                    🌍 REAL-WORLD PROJECTS
+          ┌─────────────┐
+          │     🎨      │
+          │   DESIGN    │
+          └──────┬──────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │       👤        │
+        │      USER       │
+        └────────┬────────┘
+                 │
+                 ▼
+          ┌─────────────┐
+          │     💻      │
+          │ TECHNOLOGY  │
+          └──────┬──────┘
+                 │
+                 ▼
+          ┌─────────────┐
+          │     🌍      │
+          │    IMPACT   │
+          └─────────────┘
 ```
 
-</div>
+### I don't just want to build software.
 
----
-
-# 🎯 Current Focus
-
-<table>
-<tr>
-<td>⚛️</td>
-<td><b>React & Modern JavaScript</b><br/>Building interactive and scalable web applications.</td>
-</tr>
-<tr>
-<td>🐍</td>
-<td><b>Python</b><br/>Expanding backend, automation, and problem-solving skills.</td>
-</tr>
-<tr>
-<td>🗄️</td>
-<td><b>Databases & SQL</b><br/>Working with structured information and data systems.</td>
-</tr>
-<tr>
-<td>🎨</td>
-<td><b>UI/UX Design</b><br/>Creating clean, accessible, and user-centered interfaces.</td>
-</tr>
-<tr>
-<td>☁️</td>
-<td><b>Cloud & DevOps</b><br/>Learning deployment, infrastructure, and development workflows.</td>
-</tr>
-</table>
-
----
-
-# 💡 My Development Philosophy
-
-<div align="center">
-
-### **Build with purpose. Design with people in mind. Keep learning.**
-
-<br/>
-
-|   🔍 Understand  |       🎨 Design       |       💻 Build       |   🧪 Improve   |
-| :--------------: | :-------------------: | :------------------: | :------------: |
-| Find the problem | Design the experience | Develop the solution | Test & iterate |
+### **I want to build software people can use.**
 
 </div>
 
 ---
 
-# 🌍 Beyond Code
-
-I'm especially interested in technology that creates **practical community impact**.
-
-My projects explore areas such as:
-
-🌱 **Conservation**
-
-🚨 **Disaster Response**
-
-👥 **Community Technology**
-
-📚 **Education**
-
-📊 **Information Management**
-
-🌍 **Digital Innovation**
-
----
-
-# 🤝 Let's Connect
+# 🌍 AREAS I'M INTERESTED IN
 
 <div align="center">
 
-I'm open to:
+|     🌱 Conservation    | 🚨 Disaster Response |
+| :--------------------: | :------------------: |
+|   Wildlife Technology  |   Emergency Systems  |
+| Community Conservation |    Alert Platforms   |
 
-**💻 Collaboration** • **🚀 Projects** • **🎓 Learning Opportunities** • **🌍 Community Technology**
+|   📚 Education   |    📊 Information   |
+| :--------------: | :-----------------: |
+|  Youth Platforms | Information Systems |
+| Digital Learning |   Data Management   |
+
+</div>
+
+---
+
+# 🧩 MY DEVELOPER TOOLBOX
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-7C3AED?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Development-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Information%20Systems-F97316?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏆 WHAT I'M WORKING TOWARD
+
+<div align="center">
+
+### 🚀 Become a stronger full-stack developer
+
+### 🎨 Master user-centered product design
+
+### 🗄️ Build scalable information systems
+
+### ☁️ Understand cloud & DevOps
+
+### 🌍 Create technology with real-world impact
+
+</div>
+
+---
+
+# 🤝 LET'S BUILD SOMETHING
+
+<div align="center">
+
+<p>
+Whether it's a <b>web application</b>, 
+<b>information system</b>, 
+<b>community platform</b>, or 
+<b>technology project</b> —
+</p>
+
+<h3>🚀 I'm always interested in learning, building, and collaborating.</h3>
 
 <br/>
 
-<a href="https://github.com/samatar578">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:samatar578@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL%20ME-EA4335?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samatar-mohamed-8069a8333/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="mailto:samatar578@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/samatar578">
+<img src="https://img.shields.io/badge/⭐%20GITHUB-181717?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful.;Code.+Create.+Impact.+🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7f00ff&height=120&section=footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=140&section=footer"/>
 
 </div>
