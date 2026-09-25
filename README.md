@@ -81,7 +81,7 @@ My development journey focuses on:
 
 <td width="40%" align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzsMfx8K7QUtza54L-ADGwHpOdfgJnF-2L45HmXJu6Q&s=10"/>
+<img src="./assets/saam.png" alt="GitHub stats" style="max-width:100%;height:auto;"/>
 
 </td>
 </tr>
