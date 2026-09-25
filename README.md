@@ -81,7 +81,7 @@ My development journey focuses on:
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samatar578&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00C6FF&icon_color=7F00FF"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzsMfx8K7QUtza54L-ADGwHpOdfgJnF-2L45HmXJu6Q&s=10"/>
 
 </td>
 </tr>
